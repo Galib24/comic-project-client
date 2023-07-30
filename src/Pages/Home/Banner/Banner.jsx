@@ -15,7 +15,7 @@ import img4 from '../../../assets/banner/banner-1-up.png'
 const Banner = () => {
     return (
         <>
-        <Carousel>
+        <Carousel autoPlay>
                 <div>
                     <img src={img1} />
                    
