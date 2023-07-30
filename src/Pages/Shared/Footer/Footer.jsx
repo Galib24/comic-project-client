@@ -8,8 +8,8 @@ import mg5 from '../../../assets/icons/10.svg'
 const Footer = () => {
     return (
         <>
-            <footer className="footer p-5 bg-white text-neutral-content">
-                <div  className='grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-5 w-1/2 lg:ml-80  sm:mr-40 my-12'>
+            <footer className="footer   text-neutral-content">
+                <div  className='flex  justify-center items-center mx-auto lg:gap-28 sm:gap-6 my-12'>
                     <div className=''>
                         <img className='ml-5' src={mg1} alt="" />
                         <h1 className='text-[#AAB2BD]' style={{ fontSize: '10px' }}>Recommend</h1>

@@ -7,7 +7,7 @@ import img5 from '../../../assets/icons/5.svg'
 const FirstSection = () => {
     return (
         <>
-            <div className='grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-5 w-1/2 lg:ml-80 sm:mr-52 my-24'>
+            <div className='flex  justify-center items-center mx-auto lg:gap-28 sm:gap-6 my-24'>
                 <div>
                     <img style={{ fontSize: '10px' }} src={img1} alt="" />
                     <h1 className='text-[#AAB2BD]' style={{ fontSize: '10px' }}>Category</h1>
