@@ -17,60 +17,71 @@
         "_id": "kdsf68HJ39fsfsJ",
         "title": "Avengers 0",
         "image": "https://i.ibb.co/HF3wXSV/4563.jpg",
-        "type": "novel"
+        "type": "novel",
+        "info": "Update to Chapter 6"
     },
     {
         "_id": "lksdfJHf78fsf9",
         "title": "Doctor Strange",
         "image": "https://i.ibb.co/9yqFWF4/4564.jpg",
-        "type": "recommended"
+        "type": "recommended",
+        "info": "Update to Chapter 6"
+
     },
     {
         "_id": "sdjfh7f7fHf8hJ",
         "title": "Spider-Man",
         "image": "https://i.ibb.co/FmddJM6/4565.jpg",
-        "type": "hot"
+        "type": "hot",
+        "info": "Update to Chapter 6"
     },
     {
         "_id": "dfiuhf3Fhf94hf9",
         "title": "Devil Dinosaur",
         "image": "https://i.ibb.co/wWyPpK3/4566.jpg",
-        "type": "novel"
+        "type": "novel",
+        "info": "Update to Chapter 6"
     },
     {
         "_id": "ghf83hPj98hf0pHh",
         "title": "Age of X_M",
         "image": "https://i.ibb.co/vXq7b5G/4561.jpg",
-        "type": "recommended"
+        "type": "recommended",
+        "info": "Update to Chapter 6"
     },
     {
         "_id": "kjf3hf6f9F7Hfsd3",
         "title": "Asgardians",
         "image": "https://i.ibb.co/t86gMmw/4562.jpg",
-        "type": "hot"
+        "type": "hot",
+        "info": "Update to Chapter 6"
     },
     {
         "_id": "jki8h4HJi98Fkda4",
         "title": "Avengers 0",
         "image": "https://i.ibb.co/HF3wXSV/4563.jpg",
-        "type": "novel"
+        "type": "novel",
+        "info": "Update to Chapter 6"
     },
     {
         "_id": "ldf4HhfF9hG9s3Js",
         "title": "Doctor Strange",
         "image": "https://i.ibb.co/9yqFWF4/4564.jpg",
-        "type": "recommended"
+        "type": "recommended",
+        "info": "Update to Chapter 6"
     },
     {
         "_id": "jsHk8hf6Hjsl3jNc",
         "title": "Spider-Man",
         "image": "https://i.ibb.co/FmddJM6/4565.jpg",
-        "type": "novel"
+        "type": "novel",
+        "info": "Update to Chapter 6"
     },
     {
         "_id": "jd3H5f7j5Fhsd85F",
         "title": "Devil Dinosaur",
         "image": "https://i.ibb.co/wWyPpK3/4566.jpg",
-        "type": "hot"
+        "type": "hot",
+        "info": "Update to Chapter 6"
     }
 ]
