@@ -6,7 +6,8 @@ const NavBar = () => {
 
     const navOptions = <>
 
-        <li><Link style={{fontSize: '12px'}}>Recommend</Link></li>
+        <li><Link style={{fontSize: '12px'}}>Home</Link></li>
+        <li><Link style={{fontSize: '12px'}} to={`/recommend`}>Recommend</Link></li>
         {/* <li tabIndex={0}>
             <details>
                 <summary>Recommend</summary>
@@ -16,8 +17,8 @@ const NavBar = () => {
                 </ul>
             </details>
         </li> */}
-        <li><Link style={{fontSize: '12px'}}>Hot</Link></li>
-        <li><Link style={{fontSize: '12px'}}>Novel</Link></li>
+        <li><Link style={{fontSize: '12px'}} to={`/hot`}>Hot</Link></li>
+        <li><Link style={{fontSize: '12px'}} to={`novel`}>Novel</Link></li>
 
     </>
 

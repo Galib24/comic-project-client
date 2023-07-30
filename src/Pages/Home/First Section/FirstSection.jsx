@@ -7,7 +7,7 @@ import img5 from '../../../assets/icons/5.svg'
 const FirstSection = () => {
     return (
         <>
-            <div className='grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-5 w-1/2 ml-80 my-24'>
+            <div className='grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-5 w-1/2 lg:ml-80 sm:mr-52 my-24'>
                 <img style={{ fontSize: '10px' }} src={img1} alt="" />
                 <img style={{ fontSize: '10px' }} src={img2} alt="" />
                 <img style={{ fontSize: '10px' }} src={img3} alt="" />
