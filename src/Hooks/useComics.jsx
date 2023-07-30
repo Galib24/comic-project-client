@@ -4,7 +4,7 @@ const useComics = () => {
     const [comic, setComics] = useState([]);
     const [loading, setLoading] = useState(true)
     useEffect(() => {
-        fetch('/comic.json')
+        fetch('https://comic-task-server.vercel.app/ComicData')
             .then(res => res.json())
             .then(data => {
                 setComics(data)
